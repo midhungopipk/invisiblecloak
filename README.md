@@ -4,7 +4,7 @@ You can learn some key functions of opencv from this project.
 
 
 Installation
-Clone
+
 Clone this repo to your local machine using  https://github.com/midhungopipk/invisiblecloak.git
 
 to see How it WORKS
