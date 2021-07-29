@@ -9,7 +9,7 @@ Clone this repo to your local machine using  https://github.com/midhungopipk/inv
 
 to see How it WORKS
 
-Setup/Requirements:
+Setup/Requirements: vs code
 
 The code is written in Python (Python3).
 
