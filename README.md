@@ -4,15 +4,6 @@ You can learn some key functions of opencv from this project.
 
 
 Installation
-
-Clone this repo to your local machine using  https://github.com/midhungopipk/invisiblecloak.git
-
-to see How it WORKS
-
 Setup/Requirements: vs code
 
-The code is written in Python (Python3).
-
-numpy
-OpenCV
-time
+The code is written in Python (Python3) & Using Open cv.
